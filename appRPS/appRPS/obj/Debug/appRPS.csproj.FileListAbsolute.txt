@@ -1,0 +1,9 @@
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\bin\Debug\appRPS.exe.config
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\bin\Debug\appRPS.exe
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\bin\Debug\appRPS.pdb
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.Properties.Resources.resources
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.exe
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.pdb
+C:\Users\Felipe\Desktop\RPS\appRPS\appRPS\obj\Debug\appRPS.frmPrincipal.resources
